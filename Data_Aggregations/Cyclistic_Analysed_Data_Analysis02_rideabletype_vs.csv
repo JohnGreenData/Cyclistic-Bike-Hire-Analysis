@@ -1,0 +1,4 @@
+rideable_type,avg_ride_len_mins,max_ride_len_mins,counter,total_ride_len_mins
+classic_bike,22.96,1559.93,2735432,62806615.2
+electric_scooter,10.42,479.92,144324,1503212.53
+electric_bike,12.44,481.48,2979001,37059415.55
