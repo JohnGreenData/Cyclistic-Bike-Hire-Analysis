@@ -27,5 +27,10 @@ Tools and technologies
 SQL (Google BigQuery), Tableau, Excel.
 
 Outputs  
-A full stakeholder report, including supporting visualisations, SQL code, and aggregated data CSV files are included in this repository.  The raw original data can be found at the below link, as it is too big for GitHub:
+Included in this repository are:
+ - A full stakeholder report, including supporting visualisations
+ - SQL code
+ - Aggregated data CSV files.
+
+The raw original data can be found at the below link, as it is too big for GitHub:
 https://drive.google.com/drive/folders/1BjjMS3ckG2cxFqTFX4H_yq3qp6DfhTyi?usp=sharing
