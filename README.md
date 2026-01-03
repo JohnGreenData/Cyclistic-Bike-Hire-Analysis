@@ -1,10 +1,10 @@
-Cyclistic Bike Hire Analysis
+Cyclistic Bike Hire Analysis  
 Converting casual riders into annual members using data
 
-Project overview
+Project overview  
 This project addresses the challenge of converting casual bike hire users into annual members. By analysing usage patterns across rider types, time periods, and bike types, I developed data-driven recommendations to support long-term revenue growth.
 
-Business problem
+Business problem  
 Cyclistic wanted to understand how casual riders differ from annual members, and how those insights could be used to increase membership conversions without negatively impacting existing casual rider revenue.
 
 Approach
@@ -23,9 +23,9 @@ Recommendations
  - Roll out promotions gradually and monitor closely to protect casual revenue.
  - Retain weekend pricing to avoid eroding high-value leisure usage.
 
-Tools and technologies
+Tools and technologies  
 SQL (Google BigQuery), Tableau, Excel.
 
-Outputs
+Outputs  
 A full stakeholder report, including supporting visualisations, SQL code, and aggregated data CSV files are included in this repository.  The raw original data can be found at the below link, as it is too big for GitHub:
 https://drive.google.com/drive/folders/1BjjMS3ckG2cxFqTFX4H_yq3qp6DfhTyi?usp=sharing
