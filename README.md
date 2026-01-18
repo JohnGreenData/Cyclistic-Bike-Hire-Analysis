@@ -24,13 +24,14 @@ Recommendations
  - Retain weekend pricing to avoid eroding high-value leisure usage.
 
 Tools and technologies  
-SQL (Google BigQuery), Tableau, Excel.
+SQL (Google BigQuery), Power BI, Tableau, Excel.
 
 Outputs  
 Included in this repository are:
- - A full stakeholder report, including supporting visualisations
- - SQL code
- - Aggregated data CSV files.
+ - A full stakeholder report, including supporting visualisations (Cyclistic_Project_Report.pdf)
+ - SQL code (Cyclistic_SQL_Code.sql)
+ - Power BI Dashboard, including the pbix file and an mp4 video demonstrating the dashboard in use. (/Power_BI_Dashboard/)
+ - Aggregated data CSV files. (/Data_Aggregations/)
 
 The raw original data can be found at the below link, as it is too big for GitHub:
 https://drive.google.com/drive/folders/1BjjMS3ckG2cxFqTFX4H_yq3qp6DfhTyi?usp=sharing
