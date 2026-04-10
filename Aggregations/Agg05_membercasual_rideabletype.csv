@@ -1,0 +1,7 @@
+"member_casual","rideable_type","avg_ride_len_mins","counter","total_ride_len_mins"
+casual,classic_bike,22.89,941654,21553865.57
+member,classic_bike,12.67,1750107,22166663.47
+casual,electric_bike,14.68,1046414,15358095.12
+member,electric_bike,11.0,1847174,20313887.7
+casual,electric_scooter,11.96,82729,989348.65
+member,electric_scooter,8.51,56970,485014.87

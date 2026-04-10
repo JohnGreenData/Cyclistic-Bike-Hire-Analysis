@@ -1,0 +1,5 @@
+"member_casual","weekday_weekend","count","rides_per_day","pct_of_rides","avg_length_mins","median_length_mins"
+casual,weekday,1289832,257966.0,62.29,16.73,11.03
+casual,weekend,780965,390483.0,37.71,20.9,14.27
+member,weekday,2772570,554514.0,75.87,11.35,8.55
+member,weekend,881681,440841.0,24.13,13.04,9.55
